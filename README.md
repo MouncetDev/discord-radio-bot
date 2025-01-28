@@ -1,6 +1,6 @@
-Introduction:
+# Introduction:
 Briefly describe what the bot does (e.g., "This bot allows users to stream live radio stations into their Discord voice channels. Built using Discord.js and Discord Voice modules.").
-Features:
+# Features:
 List key features like:
 Stream live radio.
 Play/pause/resume commands.
